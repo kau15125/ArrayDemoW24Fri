@@ -5,6 +5,7 @@
 package studentprint;
 
 /** model the student entity 
+its kiran
  *
  * @author kiran
  */
