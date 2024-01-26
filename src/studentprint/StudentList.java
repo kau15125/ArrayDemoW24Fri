@@ -5,6 +5,7 @@
 package studentprint;
 
 /**This is to show the modifications
+this shows the studentlist.
  *
  * @author kiran
  */
